@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="10c8e5fcace7c2cbc615088897206924200000012090047">
+  <window id="10c8e5fcace7c2cbc6150892632760634200000012090049" title="03 static_pages - YouTube - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1181" height="354"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

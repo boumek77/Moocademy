@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<compiz_session id="1074f9f5763a1ce772150750143935296100000012030047">
+  <window id="1074f9f5763a1ce772150750243577644100000012030052" title="Lancez-vous dans la programmation avec Ruby - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1215" height="776"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+  <window id="1074f9f5763a1ce772150750243577644100000012030052" title="Ruby en vingt minutes - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="818" height="466"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

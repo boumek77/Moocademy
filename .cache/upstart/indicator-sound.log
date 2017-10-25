@@ -1,0 +1,4 @@
+
+(process:1279): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0,510635 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: L'interface « com.ubuntu.AccountsService.Sound » n'existe pas
+
+(process:1279): indicator-sound-WARNING **: accounts-service-access.vala:218: unable to sync volume 0,000000 to AccountsService: GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: L'interface « com.ubuntu.AccountsService.Sound » n'existe pas

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<compiz_session id="10951aa47a5fff3467150879956213074700000011950048">
+  <window id="10951aa47a5fff3467150879964530867200000011950050" title="The Hacking Project - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1181" height="354"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

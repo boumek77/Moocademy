@@ -1,0 +1,28 @@
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100033,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+WARN  2017-10-25 16:26:51 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Impossible d'ouvrir le répertoire
+[h264 @ 0x7fa0f4355000] mmco: unref short failure
+1508945768358	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1508945768398	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1508945768430	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1508945768497	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1508945768543	addons.update-checker	WARN	Update manifest for clicktoplay-rollout@mozilla.org did not contain an updates property
+1508945768628	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1508945768663	addons.update-checker	WARN	Update manifest for formautofill@mozilla.org did not contain an updates property
+1508945768696	addons.update-checker	WARN	Update manifest for onboarding@mozilla.org did not contain an updates property
+1508945768728	addons.update-checker	WARN	Update manifest for activity-stream@mozilla.org did not contain an updates property
+1508945768764	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1508945769293	addons.update-checker	WARN	Update manifest for taarexp@mozilla.com did not contain an updates property
+1508945769324	addons.update-checker	WARN	Update manifest for sbv4-gradual-rollout@mozilla.com did not contain an updates property
+1508945770036	addons.xpi	ERROR	Failed to clean updated system add-ons directories.
+
+(nautilus:6010): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6010): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6010): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6010): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6010): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed

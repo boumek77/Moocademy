@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<compiz_session id="104dd47eb0cd1a67b2150793796847605800000011350048">
+  <window id="104dd47eb0cd1a67b2150793894619609600000011350049" title="WATIR - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1181" height="410"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

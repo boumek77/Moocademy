@@ -1,0 +1,3 @@
+[2017-10-25T15:57:58+02:00] starting `/usr/lib/heroku/bin/heroku update --autoupdate` from create
+ ▸    update the CLI with "sudo apt-get upgrade heroku"
+heroku-cli: Updating plugins... done

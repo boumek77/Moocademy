@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<compiz_session id="10f3f911d7715a911a150775996594199700000012200048">
+  <window id="10f3f911d7715a911a150776013340246800000012200049" title="traduction - Recherche Google - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="605" height="438"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

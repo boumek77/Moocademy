@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<compiz_session id="1048db6428437ac5f9150695948743396200000011230046">
+  <window id="1048db6428437ac5f9150696040319684500000011230051" title="Exercices - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="818" height="550"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_boumek0/google-chrome-stable_current_amd64.deb" added="2017-10-01T17:18:22Z" modified="2017-10-01T17:18:22Z" visited="2017-10-01T17:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-01T17:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/Brackets.Release.1.11.64-bit.deb" added="2017-10-01T18:14:21Z" modified="2017-10-01T18:14:21Z" visited="2017-10-01T18:14:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-01T18:14:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/flash-player-rpm-32-bits_11-2_fr_214212.rpm" added="2017-10-03T09:05:56Z" modified="2017-10-03T09:05:56Z" visited="2017-10-03T09:05:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T09:05:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/Pratiquez%20!%20-%20Apprenez%20%C3%A0%20cr%C3%A9er%20votre%20site%20web%20avec%20HTML5%20et%20CSS3.html" added="2017-10-03T11:50:08Z" modified="2017-10-04T12:18:01Z" visited="2017-10-03T11:50:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T11:50:12Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-04T12:18:01Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/Pratiquez%20!%20-%20Apprenez%20%C3%A0%20cr%C3%A9er%20votre%20site%20web%20avec%20HTML5%20et%20CSS3_fichiers/certif.jpg" added="2017-10-03T12:12:06Z" modified="2017-10-04T21:30:37Z" visited="2017-10-03T12:12:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-04T21:30:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/test.html" added="2017-10-03T12:39:27Z" modified="2017-10-08T15:00:54Z" visited="2017-10-03T12:39:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-03T22:00:12Z" count="97"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-08T15:00:54Z" count="26"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T21:52:34Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-06T23:23:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/identit%C3%A9-b%C3%A9b%C3%A9.jpg" added="2017-10-03T13:57:05Z" modified="2017-10-03T13:57:09Z" visited="2017-10-03T13:57:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T13:57:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Images/Capture%20du%202017-10-03%2016-00-04.png" added="2017-10-03T14:00:20Z" modified="2017-10-12T09:53:49Z" visited="2017-10-03T14:00:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-03T14:00:20Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-12T09:53:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/bb.jpg" added="2017-10-03T14:44:31Z" modified="2017-10-03T15:29:04Z" visited="2017-10-03T14:44:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T15:28:16Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-03T15:29:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/exercice-photo-paysage-format-vertical-ian-schneider-900px.jpg" added="2017-10-03T15:12:04Z" modified="2017-10-03T15:12:05Z" visited="2017-10-03T15:12:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T15:12:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/photo.jpeg" added="2017-10-03T20:03:35Z" modified="2017-10-03T20:03:35Z" visited="2017-10-03T20:03:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T20:03:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/sol.jpg" added="2017-10-03T20:27:40Z" modified="2017-10-03T21:25:44Z" visited="2017-10-03T20:27:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T21:25:10Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-03T21:25:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/sol.jpg" added="2017-10-03T21:08:21Z" modified="2017-10-03T21:23:30Z" visited="2017-10-03T21:08:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T21:23:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/EzThmb_Setup.exe" added="2017-10-03T21:18:17Z" modified="2017-10-03T21:18:17Z" visited="2017-10-03T21:18:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T21:18:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/test.html.zip" added="2017-10-03T21:57:59Z" modified="2017-10-04T12:18:23Z" visited="2017-10-03T21:57:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-04T12:18:23Z" count="10"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T22:15:33Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-10-04T12:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Nouveau%20dossier/test.html" added="2017-10-03T22:08:40Z" modified="2017-10-03T22:15:47Z" visited="2017-10-03T22:08:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-03T22:15:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/cv.zip" added="2017-10-03T22:09:17Z" modified="2017-10-04T12:18:38Z" visited="2017-10-03T22:09:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-04T12:18:38Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-03T22:16:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/test.html" added="2017-10-04T08:00:31Z" modified="2017-10-04T14:08:14Z" visited="2017-10-04T08:00:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-04T14:08:14Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/style.css" added="2017-10-04T09:25:58Z" modified="2017-10-04T09:25:58Z" visited="2017-10-04T09:25:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-04T09:25:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/Pratiquez%20!%20-%20Apprenez%20%C3%A0%20cr%C3%A9er%20votre%20site%20web%20avec%20HTML5%20et%20CSS3.css" added="2017-10-04T09:31:20Z" modified="2017-10-04T09:31:24Z" visited="2017-10-04T09:31:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T09:31:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/cupcake.jpg" added="2017-10-04T10:01:26Z" modified="2017-10-24T15:28:15Z" visited="2017-10-04T10:01:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T10:01:27Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-24T15:28:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/google.png" added="2017-10-04T14:07:33Z" modified="2017-10-04T14:07:33Z" visited="2017-10-04T14:07:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T14:07:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/google.html" added="2017-10-04T14:14:05Z" modified="2017-10-04T21:43:38Z" visited="2017-10-04T14:14:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-04T14:14:05Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-04T21:43:38Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/connexion.jpg" added="2017-10-04T20:54:48Z" modified="2017-10-04T20:54:48Z" visited="2017-10-04T20:54:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T20:54:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/menug.jpg" added="2017-10-04T21:29:56Z" modified="2017-10-04T21:29:57Z" visited="2017-10-04T21:29:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T21:29:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/Nouveau%20dossier/connexion.jpg" added="2017-10-04T21:53:37Z" modified="2017-10-04T21:53:37Z" visited="2017-10-04T21:53:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T21:53:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/Nouveau%20dossier.zip" added="2017-10-04T21:59:37Z" modified="2017-10-04T22:01:04Z" visited="2017-10-04T21:59:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-04T22:00:00Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T22:01:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/xvideos.com_7a93a5950eb9598bae2a5d7c258d612a-1.mp4" added="2017-10-04T23:55:16Z" modified="2017-10-05T00:03:52Z" visited="2017-10-04T23:55:16Z">
+    <title>xvideos.com_7a93a5950eb9598bae2a5d7c258d612a-1.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-04T23:55:16Z" count="1"/>
+          <bookmark:application name="Vidéos" exec="&apos;totem %u&apos;" modified="2017-10-05T00:03:52Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/xvideos.com_ef2b03b86e16b477861314f372a5b76e.mp4" added="2017-10-04T23:55:54Z" modified="2017-10-05T00:23:08Z" visited="2017-10-04T23:55:55Z">
+    <title>xvideos.com_ef2b03b86e16b477861314f372a5b76e.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Vidéos" exec="&apos;totem %u&apos;" modified="2017-10-05T00:23:08Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/xvideos.com_791e2fd6bb786c64f86da1a6811fd096-1.mp4" added="2017-10-04T23:57:07Z" modified="2017-10-05T00:04:31Z" visited="2017-10-04T23:57:07Z">
+    <title>xvideos.com_791e2fd6bb786c64f86da1a6811fd096-1.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Vidéos" exec="&apos;totem %u&apos;" modified="2017-10-05T00:04:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/xvideos.com_c2635287189668632176afea0c1c008d.mp4" added="2017-10-04T23:57:48Z" modified="2017-10-05T00:05:39Z" visited="2017-10-04T23:57:48Z">
+    <title>xvideos.com_c2635287189668632176afea0c1c008d.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Vidéos" exec="&apos;totem %u&apos;" modified="2017-10-05T00:05:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/beginner-html-site-styled-gh-pages.zip" added="2017-10-05T10:25:03Z" modified="2017-10-05T10:25:03Z" visited="2017-10-05T10:25:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T10:25:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.cache/.fr-TNbr8q/beginner-html-site-styled-gh-pages/CODE_OF_CONDUCT.md" added="2017-10-05T10:26:39Z" modified="2017-10-05T10:26:39Z" visited="2017-10-05T10:26:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-05T10:26:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/main.js" added="2017-10-05T12:25:04Z" modified="2017-10-05T12:27:27Z" visited="2017-10-05T12:25:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T12:27:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/Nouveau%20dossier/test.html" added="2017-10-05T12:26:58Z" modified="2017-10-05T12:26:58Z" visited="2017-10-05T12:26:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T12:26:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/Nouveau%20dossier/menug.jpg" added="2017-10-05T12:27:07Z" modified="2017-10-05T12:27:07Z" visited="2017-10-05T12:27:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T12:27:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/Nouveau%20dossier/style.css" added="2017-10-05T12:27:16Z" modified="2017-10-05T12:27:16Z" visited="2017-10-05T12:27:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T12:27:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/projet%20validant%201/test.html" added="2017-10-05T12:36:09Z" modified="2017-10-05T12:36:34Z" visited="2017-10-05T12:36:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-05T12:36:31Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-05T12:36:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/projet%20validant%201/google.html" added="2017-10-05T12:37:08Z" modified="2017-10-05T17:49:35Z" visited="2017-10-05T12:37:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-05T17:49:35Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/projet%20validant%201/style.css" added="2017-10-05T12:58:35Z" modified="2017-10-05T14:39:36Z" visited="2017-10-05T12:58:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T14:39:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/beginner-html-site-styled-gh-pages-1.zip" added="2017-10-05T13:14:47Z" modified="2017-10-05T13:14:47Z" visited="2017-10-05T13:14:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:14:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/beginner-html-site-styled-gh-pages-2.zip" added="2017-10-05T13:17:15Z" modified="2017-10-05T13:17:15Z" visited="2017-10-05T13:17:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:17:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/beginner-html-site-styled-gh-pages-3.zip" added="2017-10-05T13:20:55Z" modified="2017-10-05T13:20:55Z" visited="2017-10-05T13:20:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:20:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/projet%20validant%201" added="2017-10-05T13:21:11Z" modified="2017-10-05T13:21:11Z" visited="2017-10-05T13:21:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-10-05T13:21:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/beginner-html-site-styled-gh-pages/index.html" added="2017-10-05T13:21:54Z" modified="2017-10-05T13:33:02Z" visited="2017-10-05T13:21:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-05T13:33:02Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/beginner-html-site-styled-gh-pages/script/main.js" added="2017-10-05T13:30:31Z" modified="2017-10-05T13:31:20Z" visited="2017-10-05T13:30:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-05T13:30:31Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-05T13:30:32Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T13:31:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Documents/projet%20validant%201/script/main.js" added="2017-10-05T18:12:16Z" modified="2017-10-05T18:12:16Z" visited="2017-10-05T18:12:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T18:12:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/style.css" added="2017-10-06T13:34:06Z" modified="2017-10-06T23:22:33Z" visited="2017-10-06T13:34:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-06T13:34:06Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-06T23:21:47Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-06T23:22:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2.html" added="2017-10-07T00:18:41Z" modified="2017-10-07T00:20:38Z" visited="2017-10-07T00:18:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-07T00:18:41Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-07T00:20:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/style2.css" added="2017-10-07T00:19:17Z" modified="2017-10-07T00:19:17Z" visited="2017-10-07T00:19:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-07T00:19:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/test2.html" added="2017-10-07T00:23:03Z" modified="2017-10-08T22:28:17Z" visited="2017-10-07T00:23:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-08T22:28:17Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/style2.css" added="2017-10-07T11:45:08Z" modified="2017-10-07T11:45:49Z" visited="2017-10-07T11:45:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-07T11:45:49Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-07T11:45:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test.html" added="2017-10-08T14:59:11Z" modified="2017-10-08T14:59:11Z" visited="2017-10-08T14:59:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-08T14:59:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/maldives.jpg" added="2017-10-08T15:31:29Z" modified="2017-10-08T15:47:18Z" visited="2017-10-08T15:31:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T15:31:30Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-08T15:47:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/mer.jpeg" added="2017-10-08T15:37:31Z" modified="2017-10-08T15:37:32Z" visited="2017-10-08T15:37:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T15:37:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/eau.jpeg" added="2017-10-08T15:44:59Z" modified="2017-10-08T15:47:08Z" visited="2017-10-08T15:45:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T15:45:00Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-08T15:47:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/trt.jpg" added="2017-10-08T15:49:33Z" modified="2017-10-08T20:32:15Z" visited="2017-10-08T15:49:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T15:49:34Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-08T20:32:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/desert.jpg" added="2017-10-08T16:38:31Z" modified="2017-10-08T16:38:32Z" visited="2017-10-08T16:38:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T16:38:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/t.jpeg" added="2017-10-08T16:42:23Z" modified="2017-10-08T16:42:23Z" visited="2017-10-08T16:42:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T16:42:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/t.jpg" added="2017-10-08T16:43:32Z" modified="2017-10-08T18:32:33Z" visited="2017-10-08T16:43:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T18:32:33Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/alex-brush.zip" added="2017-10-08T17:59:21Z" modified="2017-10-08T18:09:37Z" visited="2017-10-08T17:59:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T17:59:21Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-08T18:09:37Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.cache/.fr-3mYXo9/SIL%20Open%20Font%20License.txt" added="2017-10-08T18:00:55Z" modified="2017-10-08T18:00:55Z" visited="2017-10-08T18:00:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-08T18:00:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.cache/.fr-Tonede/SIL%20Open%20Font%20License.txt" added="2017-10-08T18:09:21Z" modified="2017-10-08T18:09:23Z" visited="2017-10-08T18:09:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-08T18:09:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/beautiful_es.zip" added="2017-10-08T18:24:35Z" modified="2017-10-08T18:24:40Z" visited="2017-10-08T18:24:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T18:24:35Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-08T18:24:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test2/eau.jpg" added="2017-10-08T19:37:12Z" modified="2017-10-08T19:37:14Z" visited="2017-10-08T19:37:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T19:37:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/test%20cv%202.zip" added="2017-10-08T20:32:57Z" modified="2017-10-08T22:24:57Z" visited="2017-10-08T20:32:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-08T22:24:57Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T20:36:00Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-10-08T22:24:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/cv%202.zip" added="2017-10-08T22:39:06Z" modified="2017-10-08T22:41:12Z" visited="2017-10-08T22:39:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-08T22:40:28Z" count="5"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-08T22:41:12Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-10-08T22:39:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/Nouveau%20document" added="2017-10-09T10:43:25Z" modified="2017-10-09T10:43:28Z" visited="2017-10-09T10:43:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-09T10:43:25Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-09T10:43:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/multiple.rb" added="2017-10-09T11:57:57Z" modified="2017-10-09T11:57:57Z" visited="2017-10-09T11:57:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-09T11:57:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/ri20min.rb" added="2017-10-09T12:00:44Z" modified="2017-10-09T12:03:26Z" visited="2017-10-09T12:00:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-09T12:00:44Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-09T12:03:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/learn_ruby-master.zip" added="2017-10-10T10:00:56Z" modified="2017-10-10T10:01:02Z" visited="2017-10-10T10:00:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-10T10:00:56Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-10T10:01:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master.zip" added="2017-10-10T10:01:55Z" modified="2017-10-10T10:02:58Z" visited="2017-10-10T10:01:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-10T10:02:58Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/exo1.rb" added="2017-10-10T10:52:26Z" modified="2017-10-10T11:24:14Z" visited="2017-10-10T10:52:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-10T11:24:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/00_hello/hello.rb" added="2017-10-10T11:42:04Z" modified="2017-10-11T10:08:25Z" visited="2017-10-10T11:42:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T10:08:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/00_hello/hello_spec.rb" added="2017-10-10T11:42:15Z" modified="2017-10-11T10:08:25Z" visited="2017-10-10T11:42:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T10:08:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/00_hello/index.html" added="2017-10-10T11:42:24Z" modified="2017-10-11T10:08:25Z" visited="2017-10-10T11:42:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T10:08:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/01_temperature/index.html" added="2017-10-10T14:01:46Z" modified="2017-10-11T10:20:31Z" visited="2017-10-10T14:01:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T10:20:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/01_temperature/temperature.rb" added="2017-10-10T14:01:46Z" modified="2017-10-11T10:20:51Z" visited="2017-10-10T14:01:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T10:20:51Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/01_temperature/temperature_spec.rb" added="2017-10-10T14:01:46Z" modified="2017-10-11T10:20:31Z" visited="2017-10-10T14:01:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T10:20:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/03_simon_says/index.html" added="2017-10-10T15:23:46Z" modified="2017-10-10T16:00:35Z" visited="2017-10-10T15:23:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-10T16:00:35Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/03_simon_says/simon_says.rb" added="2017-10-10T15:23:46Z" modified="2017-10-10T16:00:35Z" visited="2017-10-10T15:23:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-10T16:00:35Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/03_simon_says/simon_says_spec.rb" added="2017-10-10T15:23:46Z" modified="2017-10-10T16:00:35Z" visited="2017-10-10T15:23:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-10T16:00:35Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/twitter-master.zip" added="2017-10-11T09:39:04Z" modified="2017-10-11T09:52:37Z" visited="2017-10-11T09:39:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-11T09:39:04Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-11T09:52:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/twitter-master.zip" added="2017-10-11T09:55:58Z" modified="2017-10-11T19:16:07Z" visited="2017-10-11T09:55:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-11T19:16:07Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-10-11T19:16:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.cache/.fr-72IzCs/twitter-master/README.md" added="2017-10-11T09:56:14Z" modified="2017-10-11T09:56:14Z" visited="2017-10-11T09:56:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-11T09:56:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.cache/.fr-CL1M22/twitter-master/.codeclimate.yml" added="2017-10-11T09:57:18Z" modified="2017-10-11T09:57:18Z" visited="2017-10-11T09:57:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-11T09:57:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.cache/.fr-7zQhGP/twitter-master/twitter.gemspec" added="2017-10-11T09:57:30Z" modified="2017-10-11T09:57:30Z" visited="2017-10-11T09:57:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-11T09:57:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/02_calculator/calculator.rb" added="2017-10-11T11:20:39Z" modified="2017-10-11T11:20:39Z" visited="2017-10-11T11:20:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T11:20:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/02_calculator/calculator_spec.rb" added="2017-10-11T11:20:39Z" modified="2017-10-11T11:20:39Z" visited="2017-10-11T11:20:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T11:20:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/learn_ruby-master/02_calculator/index.html" added="2017-10-11T11:20:39Z" modified="2017-10-11T11:20:39Z" visited="2017-10-11T11:20:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-11T11:20:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/bot.rb" added="2017-10-11T11:52:25Z" modified="2017-10-11T19:17:00Z" visited="2017-10-11T11:52:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-11T11:52:25Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-11T19:15:30Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-11T19:17:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau" added="2017-10-11T15:45:57Z" modified="2017-10-14T21:39:35Z" visited="2017-10-11T15:45:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2017-10-14T21:39:35Z" count="2"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-10-14T21:34:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Images/Capture%20du%202017-10-12%2011-53-25.png" added="2017-10-12T09:53:29Z" modified="2017-10-12T09:53:44Z" visited="2017-10-12T09:53:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-12T09:53:29Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-12T09:53:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Images/Capture%20du%202017-10-12%2012-01-23.png" added="2017-10-12T10:01:26Z" modified="2017-10-12T10:01:36Z" visited="2017-10-12T10:01:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-12T10:01:26Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-10-12T10:01:36Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/Route%20de%20la%20mairie.rb" added="2017-10-12T10:44:15Z" modified="2017-10-12T10:44:15Z" visited="2017-10-12T10:44:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-12T10:44:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/nokogiri/Route%20de%20la%20mairie.rb" added="2017-10-12T10:53:54Z" modified="2017-10-12T10:53:58Z" visited="2017-10-12T10:53:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-12T10:53:54Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-12T10:53:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/nokogiri/Route%20_de_la_mairie.rb" added="2017-10-12T10:55:39Z" modified="2017-10-12T11:16:49Z" visited="2017-10-12T10:55:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-12T10:55:39Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-12T10:55:40Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-12T11:16:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/nokogiri/nokogiri.rb" added="2017-10-12T11:01:46Z" modified="2017-10-12T11:01:46Z" visited="2017-10-12T11:01:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-12T11:01:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/nokogiri/open-uri.rb" added="2017-10-12T11:02:14Z" modified="2017-10-12T11:02:14Z" visited="2017-10-12T11:02:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-12T11:02:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/nokogiri/mairie.rb" added="2017-10-12T11:21:57Z" modified="2017-10-12T11:21:57Z" visited="2017-10-12T11:21:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-12T11:21:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/nokogiri/trader.rb" added="2017-10-12T16:58:31Z" modified="2017-10-12T16:58:31Z" visited="2017-10-12T16:58:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-12T16:58:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/watir.rb" added="2017-10-14T00:18:18Z" modified="2017-10-14T00:18:18Z" visited="2017-10-14T00:18:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-14T00:18:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/chromedriver_linux32.zip" added="2017-10-14T00:25:22Z" modified="2017-10-14T00:26:04Z" visited="2017-10-14T00:25:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-14T00:25:22Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-14T00:26:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/geckodriver-v0.19.0-linux32.tar.gz" added="2017-10-14T21:33:56Z" modified="2017-10-14T21:33:59Z" visited="2017-10-14T21:33:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-14T21:33:56Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-10-14T21:33:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/boucle.rb" added="2017-10-15T00:47:32Z" modified="2017-10-15T00:47:32Z" visited="2017-10-15T00:47:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-15T00:47:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/spreadsheets.rb" added="2017-10-15T10:25:44Z" modified="2017-10-15T11:31:51Z" visited="2017-10-15T10:25:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-15T11:31:51Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T11:16:38Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-15T11:16:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/Google_Drive.rb" added="2017-10-15T10:29:47Z" modified="2017-10-15T10:29:47Z" visited="2017-10-15T10:29:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-15T10:29:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/legislator-b02cbdbe6486.json" added="2017-10-15T10:58:04Z" modified="2017-10-15T11:14:54Z" visited="2017-10-15T10:58:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-15T10:58:04Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T11:14:54Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-15T11:14:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/client_secret.json" added="2017-10-15T11:02:29Z" modified="2017-10-15T11:02:48Z" visited="2017-10-15T11:02:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-15T11:02:48Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T11:02:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/T%C3%A9l%C3%A9chargements/client_secret.json" added="2017-10-15T11:15:26Z" modified="2017-10-15T11:16:21Z" visited="2017-10-15T11:15:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T11:16:21Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/json/Gemfile" added="2017-10-15T11:23:03Z" modified="2017-10-15T11:23:54Z" visited="2017-10-15T11:23:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-15T11:23:03Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T11:23:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/spreadsheet_fun/Gemfile" added="2017-10-15T11:25:58Z" modified="2017-10-15T11:25:58Z" visited="2017-10-15T11:25:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-15T11:25:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/spreadsheet.rb" added="2017-10-15T11:33:39Z" modified="2017-10-15T11:33:39Z" visited="2017-10-15T11:33:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-15T11:33:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/spreadsheet_fun/spreadsheets.rb" added="2017-10-15T11:33:51Z" modified="2017-10-15T11:33:51Z" visited="2017-10-15T11:33:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-15T11:33:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/spreadsheet_fun" added="2017-10-15T11:39:13Z" modified="2017-10-15T11:39:13Z" visited="2017-10-15T11:39:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2017-10-15T11:39:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/spreadsheet_fun/client_secret.json" added="2017-10-15T11:56:00Z" modified="2017-10-17T15:24:20Z" visited="2017-10-15T11:56:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-17T15:24:16Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-17T15:24:20Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Images/Capture%20du%202017-10-15%2016-03-34.png" added="2017-10-15T14:03:51Z" modified="2017-10-15T14:03:51Z" visited="2017-10-15T14:03:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-15T14:03:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/gmail.rb" added="2017-10-17T10:05:45Z" modified="2017-10-17T10:05:45Z" visited="2017-10-17T10:05:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-17T10:05:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/gmail/Gemfile" added="2017-10-17T11:00:19Z" modified="2017-10-17T11:00:36Z" visited="2017-10-17T11:00:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-17T11:00:19Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-17T11:00:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/gmail/gmail.rb" added="2017-10-17T11:30:05Z" modified="2017-10-17T11:30:42Z" visited="2017-10-17T11:30:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-17T11:30:05Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-17T11:30:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/spreadsheet_fun/spreadsheet.rb" added="2017-10-17T13:47:01Z" modified="2017-10-17T13:47:01Z" visited="2017-10-17T13:47:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-17T13:47:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/spreadsheet_fun/Gemfile" added="2017-10-17T13:51:40Z" modified="2017-10-17T13:51:43Z" visited="2017-10-17T13:51:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-17T13:51:40Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-17T13:51:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/spreadsheet_fun/mairie65.rb" added="2017-10-17T14:28:00Z" modified="2017-10-17T14:28:00Z" visited="2017-10-17T14:28:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-17T14:28:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/morpion.rb" added="2017-10-19T10:21:05Z" modified="2017-10-19T10:21:05Z" visited="2017-10-19T10:21:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-19T10:21:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/IMG_6593.PNG" added="2017-10-19T10:36:24Z" modified="2017-10-19T10:36:24Z" visited="2017-10-19T10:36:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-19T10:36:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_boumek0/FullSizeRender.jpg" added="2017-10-19T10:36:48Z" modified="2017-10-19T10:36:48Z" visited="2017-10-19T10:36:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-19T10:36:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/tic%20tac%20toe/morpion.rb" added="2017-10-19T11:58:09Z" modified="2017-10-19T11:58:09Z" visited="2017-10-19T11:58:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-19T11:58:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/hi.rb" added="2017-10-20T15:08:59Z" modified="2017-10-20T15:08:59Z" visited="2017-10-20T15:08:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-20T15:08:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/sinatra/hi.rb" added="2017-10-22T20:44:51Z" modified="2017-10-22T23:02:53Z" visited="2017-10-22T20:44:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-22T20:54:32Z" count="2"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-22T23:02:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/sinatra/Nouveau%20document" added="2017-10-22T21:53:31Z" modified="2017-10-22T21:54:28Z" visited="2017-10-22T21:53:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-22T21:54:23Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-22T21:54:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.git/HEAD" added="2017-10-22T22:23:03Z" modified="2017-10-22T22:23:03Z" visited="2017-10-22T22:23:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-22T22:23:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/.git/description" added="2017-10-22T22:23:09Z" modified="2017-10-22T22:23:09Z" visited="2017-10-22T22:23:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-22T22:23:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/sinatra/web_guesser.rb" added="2017-10-22T22:26:41Z" modified="2017-10-22T23:03:30Z" visited="2017-10-22T22:26:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-22T22:26:41Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-22T23:03:30Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/sinatra/web_guesser/web_guesser.rb" added="2017-10-22T22:33:59Z" modified="2017-10-22T23:12:20Z" visited="2017-10-22T22:33:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-22T22:33:59Z" count="2"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-22T23:12:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/web_guesser.rb" added="2017-10-22T23:01:50Z" modified="2017-10-22T23:01:50Z" visited="2017-10-22T23:01:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-22T23:01:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/blog/README.rdoc" added="2017-10-23T13:58:33Z" modified="2017-10-23T13:58:35Z" visited="2017-10-23T13:58:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-10-23T13:58:33Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-23T13:58:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/blog" added="2017-10-23T13:58:58Z" modified="2017-10-23T13:58:58Z" visited="2017-10-23T13:58:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-23T13:58:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/blog/bin/rails" added="2017-10-24T10:14:59Z" modified="2017-10-24T10:14:59Z" visited="2017-10-24T10:14:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-10-24T10:14:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/Rorformation" added="2017-10-24T11:05:37Z" modified="2017-10-24T11:05:37Z" visited="2017-10-24T11:05:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-24T11:05:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Images/Capture%20du%202017-10-25%2012-41-47.png" added="2017-10-25T10:41:57Z" modified="2017-10-25T10:41:57Z" visited="2017-10-25T10:41:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-10-25T10:41:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/sample_app" added="2017-10-25T11:14:07Z" modified="2017-10-25T11:14:07Z" visited="2017-10-25T11:14:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-25T11:14:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/sample_app/app/views/static_pages/about.html.erb" added="2017-10-25T14:59:46Z" modified="2017-10-25T14:59:46Z" visited="2017-10-25T14:59:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-25T14:59:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/boumek/Bureau/sample_app/app/views/static_pages/static_controller_test_erb" added="2017-10-25T15:30:36Z" modified="2017-10-25T15:30:36Z" visited="2017-10-25T15:30:36.886369Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-25T15:30:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

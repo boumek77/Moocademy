@@ -1,0 +1,584 @@
+{
+	"folder_history":
+	[
+		"/home/boumek/Bureau/Rorformation"
+	],
+	"last_version": 3143,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"town",
+						"town_name"
+					],
+					[
+						"H",
+						"hello"
+					],
+					[
+						"TEXT",
+						"text-decoration"
+					],
+					[
+						"text",
+						"text-decoration-style"
+					],
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"text-",
+						"text-shadow"
+					],
+					[
+						"bo",
+						"border-radius"
+					],
+					[
+						"e",
+						"em\tTag"
+					],
+					[
+						"m",
+						"mark\tTag"
+					],
+					[
+						"bac",
+						"background-attachment"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"te",
+						"text-decoration-line"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"sol",
+						"sol_mini"
+					],
+					[
+						"src",
+						"source\tTag"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"i",
+						"id\tAttr"
+					],
+					[
+						"in",
+						"input\tTag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/boumek/Bureau/sinatra/hi.rb",
+				"/home/boumek/Bureau/sinatra/web_guesser.rb",
+				"/home/boumek/Bureau/hi.rb",
+				"/home/boumek/Bureau/tic tac toe/morpion.rb",
+				"/home/boumek/Bureau/morpion.rb",
+				"/home/boumek/Bureau/spreadsheet_fun/mairie65.rb",
+				"/home/boumek/Bureau/spreadsheet_fun/spreadsheet.rb",
+				"/home/boumek/Bureau/gmail/gmail.rb",
+				"/home/boumek/Bureau/spreadsheet.rb",
+				"/home/boumek/spreadsheet_fun/spreadsheets.rb",
+				"/home/boumek/Bureau/Google_Drive.rb",
+				"/home/boumek/Bureau/spreadsheets.rb",
+				"/home/boumek/Bureau/client_secret.json",
+				"/home/boumek/Bureau/boucle.rb",
+				"/home/boumek/Bureau/watir.rb",
+				"/home/boumek/Bureau/nokogiri/trader.rb",
+				"/home/boumek/Bureau/nokogiri/mairie.rb",
+				"/home/boumek/Bureau/nokogiri/Route _de_la_mairie.rb",
+				"/home/boumek/Bureau/Route de la mairie.rb",
+				"/home/boumek/Bureau/nokogiri/nokogiri.rb",
+				"/home/boumek/Bureau/nokogiri/open-uri.rb",
+				"/home/boumek/Bureau/bot.rb",
+				"/home/boumek/Bureau/learn_ruby-master/02_calculator/calculator.rb",
+				"/home/boumek/Bureau/learn_ruby-master/02_calculator/calculator_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/02_calculator/index.html",
+				"/home/boumek/Bureau/learn_ruby-master/01_temperature/temperature.rb",
+				"/home/boumek/Bureau/learn_ruby-master/01_temperature/temperature_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/01_temperature/index.html",
+				"/home/boumek/Bureau/learn_ruby-master/00_hello/hello.rb",
+				"/home/boumek/Bureau/learn_ruby-master/00_hello/hello_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/00_hello/index.html",
+				"/home/boumek/Bureau/learn_ruby-master/03_simon_says/simon_says.rb",
+				"/home/boumek/Bureau/learn_ruby-master/03_simon_says/simon_says_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/03_simon_says/index.html",
+				"/home/boumek/Bureau/exo1.rb",
+				"/home/boumek/Bureau/ri20min.rb",
+				"/home/boumek/Bureau/test2/style2.css",
+				"/home/boumek/Bureau/test2/test2.html",
+				"/home/boumek/test.html",
+				"/home/boumek/Bureau/style2.css",
+				"/home/boumek/Bureau/test2.html",
+				"/home/boumek/style.css",
+				"/home/boumek/Documents/projet validant 1/style.css",
+				"/home/boumek/Documents/projet validant 1/google.html",
+				"/home/boumek/Documents/projet validant 1/script/main.js",
+				"/home/boumek/Documents/beginner-html-site-styled-gh-pages/script/main.js",
+				"/home/boumek/Documents/beginner-html-site-styled-gh-pages/index.html",
+				"/home/boumek/Documents/main.js",
+				"/home/boumek/Documents/Nouveau dossier/test.html",
+				"/home/boumek/Documents/Nouveau dossier/menug.jpg",
+				"/home/boumek/Documents/google.html",
+				"/home/boumek/Documents/style.css",
+				"/home/boumek/Documents/test.html"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"town",
+						"town_name"
+					],
+					[
+						"H",
+						"hello"
+					],
+					[
+						"TEXT",
+						"text-decoration"
+					],
+					[
+						"text",
+						"text-decoration-style"
+					],
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"text-",
+						"text-shadow"
+					],
+					[
+						"bo",
+						"border-radius"
+					],
+					[
+						"e",
+						"em\tTag"
+					],
+					[
+						"m",
+						"mark\tTag"
+					],
+					[
+						"bac",
+						"background-attachment"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"te",
+						"text-decoration-line"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"sol",
+						"sol_mini"
+					],
+					[
+						"src",
+						"source\tTag"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"i",
+						"id\tAttr"
+					],
+					[
+						"in",
+						"input\tTag"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/boumek/Bureau/Rorformation"
+			],
+			"file_history":
+			[
+				"/home/boumek/Bureau/sinatra/hi.rb",
+				"/home/boumek/Bureau/sinatra/web_guesser.rb",
+				"/home/boumek/Bureau/hi.rb",
+				"/home/boumek/Bureau/tic tac toe/morpion.rb",
+				"/home/boumek/Bureau/morpion.rb",
+				"/home/boumek/Bureau/spreadsheet_fun/mairie65.rb",
+				"/home/boumek/Bureau/spreadsheet_fun/spreadsheet.rb",
+				"/home/boumek/Bureau/gmail/gmail.rb",
+				"/home/boumek/Bureau/spreadsheet.rb",
+				"/home/boumek/spreadsheet_fun/spreadsheets.rb",
+				"/home/boumek/Bureau/Google_Drive.rb",
+				"/home/boumek/Bureau/spreadsheets.rb",
+				"/home/boumek/Bureau/client_secret.json",
+				"/home/boumek/Bureau/boucle.rb",
+				"/home/boumek/Bureau/watir.rb",
+				"/home/boumek/Bureau/nokogiri/trader.rb",
+				"/home/boumek/Bureau/nokogiri/mairie.rb",
+				"/home/boumek/Bureau/nokogiri/Route _de_la_mairie.rb",
+				"/home/boumek/Bureau/Route de la mairie.rb",
+				"/home/boumek/Bureau/nokogiri/nokogiri.rb",
+				"/home/boumek/Bureau/nokogiri/open-uri.rb",
+				"/home/boumek/Bureau/bot.rb",
+				"/home/boumek/Bureau/learn_ruby-master/02_calculator/calculator.rb",
+				"/home/boumek/Bureau/learn_ruby-master/02_calculator/calculator_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/02_calculator/index.html",
+				"/home/boumek/Bureau/learn_ruby-master/01_temperature/temperature.rb",
+				"/home/boumek/Bureau/learn_ruby-master/01_temperature/temperature_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/01_temperature/index.html",
+				"/home/boumek/Bureau/learn_ruby-master/00_hello/hello.rb",
+				"/home/boumek/Bureau/learn_ruby-master/00_hello/hello_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/00_hello/index.html",
+				"/home/boumek/Bureau/learn_ruby-master/03_simon_says/simon_says.rb",
+				"/home/boumek/Bureau/learn_ruby-master/03_simon_says/simon_says_spec.rb",
+				"/home/boumek/Bureau/learn_ruby-master/03_simon_says/index.html",
+				"/home/boumek/Bureau/exo1.rb",
+				"/home/boumek/Bureau/ri20min.rb",
+				"/home/boumek/Bureau/test2/style2.css",
+				"/home/boumek/Bureau/test2/test2.html",
+				"/home/boumek/test.html",
+				"/home/boumek/Bureau/style2.css",
+				"/home/boumek/Bureau/test2.html",
+				"/home/boumek/style.css",
+				"/home/boumek/Documents/projet validant 1/style.css",
+				"/home/boumek/Documents/projet validant 1/google.html",
+				"/home/boumek/Documents/projet validant 1/script/main.js",
+				"/home/boumek/Documents/beginner-html-site-styled-gh-pages/script/main.js",
+				"/home/boumek/Documents/beginner-html-site-styled-gh-pages/index.html",
+				"/home/boumek/Documents/main.js",
+				"/home/boumek/Documents/Nouveau dossier/test.html",
+				"/home/boumek/Documents/Nouveau dossier/menug.jpg",
+				"/home/boumek/Documents/google.html",
+				"/home/boumek/Documents/style.css",
+				"/home/boumek/Documents/test.html"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/boumek/Bureau/Rorformation"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,640,24,1280,504,1280,800",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,27 @@
+logrotate state -- version 2
+"/home/boumek/.cache/upstart/dbus.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/indicator-keyboard.log" 2016-2-11-17:29:28
+"/home/boumek/.cache/upstart/indicator-sound.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/window-stack-bridge.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/unity-settings-daemon.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/unity7.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/hud.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/ssh-agent.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/indicator-printers.log" 2016-2-11-17:29:28
+"/home/boumek/.cache/upstart/bamfdaemon.log" 2017-10-20-1:35:21
+"/home/boumek/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2017-10-19-13:56:59
+"/home/boumek/.cache/upstart/at-spi2-registryd.log" 2017-10-19-13:56:59
+"/home/boumek/.cache/upstart/gpg-agent.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/indicator-application.log" 2017-10-25-12:12:17
+"/home/boumek/.cache/upstart/upstart-event-bridge.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/update-notifier-release.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/unity-panel-service.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/gnome-keyring.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/*.log" 2017-10-11-16:0:0
+"/home/boumek/.cache/upstart/indicator-session.log" 2017-10-3-18:8:49
+"/home/boumek/.cache/upstart/indicator-datetime.log" 2017-10-12-11:50:55
+"/home/boumek/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_gnome-software.1000.crash.log" 2017-10-11-16:31:50
+"/home/boumek/.cache/upstart/gnome-keyring-ssh.log" 2017-10-25-15:26:46
+"/home/boumek/.cache/upstart/logrotate.log" 2017-10-19-13:56:59
+"/home/boumek/.cache/upstart/unicast-local-avahi.log" 2017-10-10-18:0:26
+"/home/boumek/.cache/upstart/unity-panel-service-lockscreen.log" 2017-10-24-0:50:33

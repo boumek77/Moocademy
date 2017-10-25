@@ -1,0 +1,41 @@
+openConnection: connect: Aucun fichier ou dossier de ce type
+cannot connect to brltty at :0
+upstart: Le processus indicator-application main s'est achevé, redémarrage
+upstart: Le processus indicator-application main s'est achevé, redémarrage
+upstart: Régénération de indicator-application trop rapide, arrêt
+upstart: Le processus window-stack-bridge main (1009) a été tué par le signal HUP
+upstart: Le processus bamfdaemon main (1151) a été tué par le signal TERM
+upstart: Le processus hud main (1200) a été tué par le signal HUP
+upstart: Le processus unity-settings-daemon main (1202) a été tué par le signal HUP
+upstart: Le processus gnome-session (Unity) main (1209) a été tué par le signal HUP
+upstart: Le processus unity-panel-service main (1221) a été tué par le signal HUP
+upstart: Le processus indicator-messages main (1427) a été tué par le signal HUP
+upstart: Le processus indicator-bluetooth main (1428) a été tué par le signal TERM
+upstart: Le processus indicator-power main (1430) a été tué par le signal TERM
+upstart: Le processus indicator-datetime main (1432) a été tué par le signal TERM
+upstart: Le processus indicator-keyboard main (1433) a été tué par le signal HUP
+upstart: Le processus indicator-sound main (1434) a été tué par le signal HUP
+upstart: Le processus indicator-printers main (1435) a été tué par le signal TERM
+upstart: Le processus indicator-session main (1437) a été tué par le signal TERM
+upstart: job upstart-udev-bridge failed to stop
+upstart: job dbus failed to stop
+upstart: job gnome-session (Unity) failed to stop
+upstart: job unity7 failed to stop
+upstart: job upstart-dbus-session-bridge failed to stop
+upstart: job gpg-agent failed to stop
+upstart: job indicator-messages failed to stop
+upstart: job indicator-bluetooth failed to stop
+upstart: job unity-panel-service failed to stop
+upstart: job hud failed to stop
+upstart: job im-config failed to stop
+upstart: job upstart-dbus-system-bridge failed to stop
+upstart: job indicator-power failed to stop
+upstart: job indicator-datetime failed to stop
+upstart: job indicator-keyboard failed to stop
+upstart: job unity-settings-daemon failed to stop
+upstart: job indicator-sound failed to stop
+upstart: job upstart-file-bridge failed to stop
+upstart: job bamfdaemon failed to stop
+upstart: job window-stack-bridge failed to stop
+upstart: job indicator-printers failed to stop
+upstart: job indicator-session failed to stop

@@ -1,0 +1,7 @@
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "L'interface « com.canonical.dbusmenu » n'existe pas pour l'objet à l'emplacement /org/ayatana/bamf/window/39846393"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "L'interface « com.canonical.dbusmenu » n'existe pas pour l'objet à l'emplacement /org/ayatana/bamf/window/65018367"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "L'interface « com.canonical.dbusmenu » n'existe pas pour l'objet à l'emplacement /org/ayatana/bamf/window/62936143"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "L'interface « com.canonical.dbusmenu » n'existe pas pour l'objet à l'emplacement /org/ayatana/bamf/window/62936337"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "L'interface « com.canonical.dbusmenu » n'existe pas pour l'objet à l'emplacement /org/ayatana/bamf/window/39847919"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "L'interface « com.canonical.dbusmenu » n'existe pas pour l'objet à l'emplacement /org/ayatana/bamf/window/56623302"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "L'interface « com.canonical.dbusmenu » n'existe pas pour l'objet à l'emplacement /org/ayatana/bamf/window/39848314"

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<compiz_session id="101c8dc852c4ab5ffa150689538157286900000011420045">
+  <window id="101c8dc852c4ab5ffa15069398603169700000011420050" title="Info session - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1093" height="670"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="101c8dc852c4ab5ffa15069398603169700000011420050" title="Info session - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="490" y="100" width="429" height="450"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+  <window id="101c8dc852c4ab5ffa15069398603169700000011420050" title="Info session - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="490" y="24" width="429" height="450"/>
+    <minimized/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Hacking Project</title>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ye0tXqum2CzV5VslOzsRxXtHG7RH8rEF+bl3dDSgt/2Tr9moaFAECyEuVRfmb6nT2T/2fUM0xk5AMDXeG3pQTg==" />
+    <link rel="stylesheet" media="all" href="/assets/application-ba8fc79d1e4588a4c69e3f966347dc2eb61d17b52132876debcdbcac2c3cd82a.css" data-turbolinks-track="reload" />
+    <script src="/assets/application-abf83992d090a5fed5bf6ac842659c74ebb351307a43f1f2a319751e18653507.js" data-turbolinks-track="reload"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  </head>
+
+  <body>
+    <br><br><br>
+    <div class="container">
+      <h1>Mercredi 25 octobre : CRUD-Style</h1>
+<h2>1. Ressources</h2>
+<h3>a. Michael Hartl</h3>
+<p>Nous allons avancer dans le livre de Michael Hartl. Encore une fois, pas besoin d'essayer de comprendre par coeur tous les concepts vus, ni de faire les chapitres. Il y en a beaucoup, et c'est le principe de Rails : proposer un framework qui fait tout le taf pour toi sous le capot. C'est son avantage par rapport à ExpressJS ou Sinatra, donc profites-en bien. Bref, voici les chapitres à lire / regarder :
+	<ul>
+		<li>Suis <a href="https://www.railstutorial.org/book/static_pages" target="_blank">le chapitre 3</a> du tutoriel de Michael Hartl, qui va te faire faire un page web. Comme le format texte peut dérouter voire fatiguer plus d'un d'entre nous, <a href="https://youtu.be/7iFB4MfiF9c" target="_blank">j'ai fait une vidéo qui refait le chapitre</a> : tu n'as qu'à la suivre</li>
+		<li>Suis <a target="_blank" href="https://www.railstutorial.org/book/rails_flavored_ruby">le chapitre 4</a> du tutoriel de Michael Hartl. J'ai fait <a target="_blank" href="https://youtu.be/eaK-hyc7XNU">une version vidéo</a> pour les amateurs
+		<ul>
+			<li>Comme tu peux le constater, ce chapitre est très court : Hartl passe pas mal de temps à introduire Ruby, mais nous sommes déjà au top niveau dans le langage</li>
+		</ul></li>
+		<li>Suis <a target="_blank" href="https://www.railstutorial.org/book/filling_in_the_layout">le chapitre 5</a> du tutoriel de Michael Hartl. J'ai fait <a target="_blank" href="https://youtu.be/yI9G7t85IhE">une version vidéo</a> pour les amateurs</li>
+	</ul>
+
+</p>
+
+<h3>b. Deploiement d'un site en ligne</h3>
+<p>Aujourd'hui tu devoir mettre ton site en ligne sur Heroku, yay ! Voici donc <a target="_blank" href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/deployment">une petite doc</a> de nos super potos de The Odin Project. Elle pourra te servir plus tard 😙</p>
+
+<h2>2. Projets</h2>
+<p>⚠️ <b>ATTENTION</b> ⚠️ Le projet du jour est validant ⚠️ <b>ATTENTION</b> ⚠️<br>
+Il est <b>indispensable</b> que tu le soumettes avant 23h59 aujourd'hui. Plus d'information sur les projets validant dans <a href="/modalites">la page des modalités</a>. Voici le lien <a href="/users/validating-forms/form-7">du formulaire</a> à compléter.
+</p>
+
+
+<h3>a. The Hacking Gossip</h2>
+<p>À The Hacking Project, il se passe plein de choses entre les moussaillons. Il faut donc créer une plate-forme où tout le monde peut venir écrire des gossips, les éditer, et même les détruires. Bien entendu, tous les gossips seront affichés dans l'index des gossips.</p>
+
+<ul>
+	<li>Créé ton app <code>rails new the-gossip-project</code></li>
+	<li>Voyons comment nous allons structurer notre model gossip :
+	<ul>
+		<li>il doit avoir un <code>anonymous_author</code>, qui est un string</li>
+		<li>il doit avoir un <code>content</code>, qui est un string</li>
+	</ul></li>
+	<li><a href="http://guides.rubyonrails.org/getting_started.html#creating-the-article-model">Créé donc le model</a>, et effectue la migration</li>
+	<li>Une fois ceci fait, créé le controller, en faisant <code>rails generate controller Gossips</code></li>
+	<li>il te faudra brancher les routes pour que le CRUD entier de notre model gossip marche (indice : resources 💡). Aussi, la home du projet doit être l'index  des gossips</li>
+</ul>
+
+<p>Maintenant que tu as fait la mise en route rapide, tu vas faire le reste des commandes du CRUD, en commençant par la création</p>
+
+<ul>
+	<li>Modifie la view new, afin de faire un formulaire de création
+	<ul>
+		<li>Pour ceci, utilise le formulaire que tu veux</li>
+		<li>Fais la fonction new dans le controller (indice : la fonction new a 1 ligne 👌)</li>
+		<li>va sur <a href="http://localhost:3000/gossips/new">http://localhost:3000/gossips/new</a>, cela devrait afficher le formulaire. Essaie de le remplir : oups, il n'y a pas la fonction Create</li>
+	</ul></li>
+	<li>Fais-donc la fonction <code>#create</code></li>
+	<li>Si le model user arrive à être sauvegardé, tu dois redirigé le user vers la page user (méthode <code>#show</code>)</li>
+	<li>Maintenant, tu arrives à créer ton utilisateur. Quand tu remplis le formulaire, il te dit "pas de méthode show dans le controller". Oups, c'est vrai on redirige vers @gossip quand il est créé.</li>
+</ul>
+
+<p>Créons donc la view pour Show. À partir de la page profil de notre gossip, nous devons : afficher notre gossip, avoir un lien pour l'éditer, et un lien pour revenir à l'index des gossips</p>
+
+<ul>
+	<li>Va sur le controller, et créé la méthode show. Cette méthode doit avoir une ligne : celle qui dit "trouve-moi le gossip en cours à partir des params" :
+    <pre>def show
+  @gossip = Gossip.find(params[:id])
+end</pre></li>
+	<li>Fais la view : elle doit afficher comme convenu le nom, le contenu du gossip, et les liens pour l'index que l'édition</li>
+	<li>Vérifie que ça marche en allant sur <a href="http://localhost:3000/gossips/1">http://localhost:3000/gossips/1</a>. Les liens doivent rediriger vers <a href="http://localhost:3000/gossips/1/edit">http://localhost:3000/gossips/1/edit</a> et <a href="http://localhost:3000/gossips">http://localhost:3000/gossips</a> (ou <a href="http://localhost:3000/">http://localhost:3000/</a> si tu as redirigé vers root_path)</li>
+</ul>
+
+<p>Maintenant, nous allons aller vers l'édition. Dans une édition de gossip, tu peux changer l'anonymous_author, le content, et tu peux supprimer le gossip</p>
+
+<ul>
+	<li>Pour commencer, nous allons faire l'édition
+	<ul>
+		<li>Va dans le controller, et mets les méthodes edit et update. Comme nous allons éditer les mêmes paramètres que lors de la création de de gossip, ces méthodes seront presque identiques à new et create. La doc a un <a href="http://edgeguides.rubyonrails.org/getting_started.html#updating-articles">très bon exemple</a> pour cela.</li>
+		<li>Créé la view edit, qui doit afficher un formulaire pour mettre à jour le gossip. </li>
+		<li>Puis balance un lien pour supprimer le gossip. J'aime bien faire chercher les élèves, mais un lien de delete est toujours un peu galère, donc le voici : <code>&lt;%= link_to 'Clique pour détruire', @gossip, method: :delete %></code></li>
+		<li>Mets à jour la méthode <code>#destroy</code>, qui doit rediriger vers l'index des gossips une fois le gossip supprimé</li>
+		<li>Teste en créant un user, mets-le à jour, puis détruits-le. Ouuuups, il te renvoie une erreur comme quoi il n'y a pas de méthode index dans le controller. Et bien on va la faire 🤠</li>
+	</ul></li>
+</ul>
+
+<p>L'index doit afficher tous les gossips dans un tableau, en un lien pour que les visiteurs puissent créer leur gossip</p>
+
+<ul>
+	<li>Commence en créant la méthode index dans le controller. 
+	<ul>
+		<li>Cette méthode a une ligne, et va chercher tous les gossip, pour les enregistrer dans une array</li>
+	</ul></li>
+	<li>Ensuite, créé la view : tu dois afficher tous les gossips, dans un tableau (ou autre), et mettre le lien vers le gossip.
+	<ul>
+		<li>Ensuite, balance un magnifique lien pour que des visiteurs puissent enregistrer leurs gossips</li>
+	</ul></li>
+</ul>
+
+<p>Et voilà, quel beau travail ❤️
+Tu peux pimper ton travail avec un peu de CSS 😎</p>
+
+<h3>b. The Hacking Gossip, version en ligne</h3>
+<p>Les sites en local, c'est bien. Mais mettre son site en ligne, c'est vraiment mieux. Nous allons donc faire un site que l'on va mettre en ligne.</p>
+<h4>Création</h4>
+<p>Voici les quelques recommandations à suivre :</p>
+<ul>
+	<li>Créé ton app <code>rails new the-gossip-project-2</code></li>
+	<li>Initialize un git</li>
+	<li>il va te falloir faire un <code>bundle install --without production</code> du Gemfile, mais il faut un Gemfile compatible Heroku. Voici un joli <a href="https://github.com/TheHackingProject/thp-session-01/blob/master/03_rails/semaine_04/07_28_VENDREDI/01_faire_un_site/files/Gemfile">exemple</a>.
+		<ul>
+			<li>Tu veux faire <code>bundle install</code> sans le <code>--without production</code> et PostGreSQL te balance des gros bugs de partout ? On peut solver ça en installant les <a href="https://stackoverflow.com/a/34399917">biliothèques de développement de PostGreSQL</a></li>
+		</ul></li>
+	<li>Fais un commit, et push ton commit sur Heroku avec <code>git push heroku master</code></li>
+	<li>Tout marche ? Yeah à toi la gloire 😎</li>
+</ul>
+
+<h4>Réalisation</h4>
+<p>Et bien maintenant il ne te reste plus qu'à refaire le projet The Hacking Gossip. Pourquoi le refaire ? Et bien si la première fois c'était un peu bancal, la seconde sera bien plus simple. Ainsi, tu sauras bien faire tes CRUDs pour passer à la suite sans souci.</p>
+<p>Mais petite difficulté : tu dois utiliser un autre type de formulaire que ce que tu as utilisé pour la première fois où tu faisais The Hacking Gossip. Si tu as utilisé <code>form_tag</code>, tu devras utiliser <code>form_for</code>, et vice-versa. Et si tu as utilisé un mix des deux, tu devras inverser ton mix. Tu peux utiliser les formulaires HTML aussi si tu veux.</p>
+
+<h4>Déploiement</h4>
+<p>Une fois que ton projet est fini, ton pourras faire un déploiement sur Heroku (après avoir fait un commit bien entendu) :</p>
+
+<pre><code class="shell language-shell">$ git push heroku master
+$ heroku run rails db:migrate
+</code></pre>
+
+
+<h3>c. CRUD des familles</h3>
+<p>The_Hacking_Project c'est des gens très sympas, il faut donc faire un site qui recense les moussaillons. Ce site permettrait à qui le veut de pouvoir voir une liste de moussaillons avec : </p>
+
+<ul>
+	<li>leur prénom</li>
+	<li>leur age</li>
+	<li>s'ils sont plutôt Kebab ou Hummus</li>
+</ul>
+
+<p>Puis en allant sur la page d'édition des moussaillons, il est possible de mettre à jour une petite bio, d'y renseigner leur pseudo slack et/ou Github, et/ou de supprimer le moussaillon de la base. Bien entendu, nous allons faire en sorte que les paramêtres renseignés ressemblent à quelque chose, et afficher des messages d'erreur si un utilisateur rentre un prénom vide en prénom par exemple.</p>
+
+<p>Puis parce que l'on veut la terre profiter de notre super site, nous allons le mettre en ligne sur Heroku 😻</p>
+
+<h4>Le site, pas à pas</h4>
+
+<h5>Les bases</h2>
+<p>Pour bien débuter, il faut faire nos bases :</p>
+
+<ul>
+	<li>crée donc un projet rails appelé thp-moussaillons</li>
+	<li>il va te falloir faire un <code>bundle install --without production</code> du Gemfile, mais il faut un Gemfile compatible Heroku. Voici un joli <a href="https://github.com/TheHackingProject/thp-session-01/blob/master/03_rails/semaine_04/07_28_VENDREDI/01_faire_un_site/files/Gemfile">exemple</a>.
+		<ul>
+			<li>Tu veux faire <code>bundle install</code> sans le <code>--without production</code> et PostGreSQL te balance des gros bugs de partout ? On peut solver ça en installant les <a href="https://stackoverflow.com/a/34399917">biliothèques de développement de PostGreSQL</a></li>
+		</ul></li>
+	<li>génère un controller static_pages avec une méthode : home</li>
+	<li>home doit être sur root, modifie le fichier <em>routes.rb</em></li>
+	<li>lance les serveurs <code>rails server</code>, puis va sur <a href="http://localhost:3000/">http://localhost:3000/</a> pour checker que tout va bien</li>
+</ul>
+
+<p>Maintenant que l'on a un site qui marche, nous allons le push sur heroku, pour éviter les mauvaises surprises plus tard</p>
+
+<ul>
+	<li>initialise git, crée un repo Github et ajoute ce repo en origin</li>
+	<li><code>heroku create</code></li>
+	<li><code>git push heroku master</code></li>
+	<li>à toi la gloire !</li>
+</ul>
+
+<p>⚠️ <strong>Meilleures pratiques</strong> ⚠️ : nous te conseillons de faire des commit à chaque sous-chapitre de ce tutoriel. Ainsi, si jamais tu veux tester quelque chose, au lieu de commenter la section, tu peux faire <code>git reset --hard</code> pour revenir au commit précédent. Très pratique quand tu as un truc qui merde 💩</p>
+
+<h4>Un peu de mise en forme</h4>
+<p>Pour que notre site ressemble à quelque chose, nous allons faire un peu de mise en forme sur notre page principale.</p>
+
+<h5>Installation de Bootstrap</h5>
+<p>Pour installer Bootstrap, il faut mettre Bootstrap dans le Gemfile :</p>
+
+<pre><code class="ruby language-ruby">gem 'bootstrap-sass', '3.3.7'
+</code></pre>
+
+<p>Mettre à jour le bundle avec un petit <code>bundle install --without production</code>. Puis renseigner les lignes suivantes dans le fichier <em>app/assets/stylesheets/custom.scss</em></p>
+
+<pre><code class="sass language-sass">@import "bootstrap-sprockets";
+@import "bootstrap";
+</code></pre>
+
+<p>Enfin, relancer le serveur. Bootstrap devrait être installé.</p>
+
+<h5 id="unheader">Un header</h5>
+<p>Un header pour tout le site c'est bien. Comme tu n'es pas (encore) un expert de Bootstrap, nous n'allons pas réinventer la roue, et reprendre le header du Rails Tutorial. Créé une partial <code>_header.html.erb</code> dans ton dossier <code>app/views/layouts</code> puis fais appel à elle dans ton fichier <code>app/views/layouts/application/html.erb</code>.</p>
+
+<p>Voici un exemple de header que tu peux reprendre dans ton fichier <code>_header.html.erb</code> :</p>
+
+<pre><code class="erb language-erb">&lt;header class="navbar navbar-fixed-top navbar-inverse"&gt;
+  &lt;div class="container"&gt;
+    &lt;nav&gt;
+      &lt;ul class="nav navbar-nav navbar-right"&gt;
+        &lt;li&gt;&lt;%= link_to "Accueil",   '#' %&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;%= link_to "Index des moussaillons",   '#' %&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;%= link_to "Nouveau moussaillon", '#' %&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+</code></pre>
+
+<h5 id="unbody">Un body</h5>
+
+<p>Pour notre page d'accueil idem : nous n'allons pas réinventer la roue. Dans ton fichier <code>home.html.erb</code> colle le code suivant :</p>
+
+<pre><code class="erb language-erb">&lt;div class="center jumbotron"&gt;
+  &lt;h1&gt;Bienvenue !&lt;/h1&gt;
+  &lt;h3&gt;
+    Ici, tu peux retrouver les moussaillons 🎓
+  &lt;/h3&gt;
+  &lt;%= link_to "Enregistre-toi !", '#', class: "btn btn-lg btn-primary" %&gt;
+&lt;/div&gt;
+</code></pre>
+
+<p>Tu peux ajouter du CSS dans le fichier <code>custom.scss</code> si tu veux mais ce n'est pas l'objet de ce projet : n'y passe pas trop de temps. Voici quand même une ligne à rentrer pour éviter que le header ne recouvre le début de ta page :</p>
+
+<pre><code class="scss language-scss">body {
+    margin-top: 50px;
+}
+</code></pre>
+
+<h4 id="lecrudbasique">Le CRUD basique</h4>
+
+<p>Maintenant que l'on a une base squelettique, on va pouvoir commencer à travailler dessus. Et rien de tel qu'un petit CRUD des families pour cela 💁</p>
+
+<h5 id="modelcontroller">Model - Controller</h5>
+
+<p>Tu vas devoir générer un model corsair. Les moussaillons ont :</p>
+
+<ul>
+<li>un <code>first_name</code>, qui est un <code>string</code></li>
+
+<li>un <code>age</code>, qui est un <code>integer</code></li>
+
+<li>un <code>likeness</code> qui est un <code>string</code> (et sera soit égal à "kebab", soit égal à "hummus")</li>
+
+<li>un <code>bio</code> qui est un <code>string</code></li>
+
+<li>un <code>slack_handle</code> qui est un <code>string</code></li>
+
+<li>un <code>github_handle</code> qui est un <code>string</code></li>
+</ul>
+
+<p>Joli modèle ! Nous allons revenir sur les validations plus tard. C'est best practice de faire le model bien fait avant, mais le but est de construire un squelette progressif pour que tu puisses voir tes avancées.</p>
+
+<p>Maintenant génère un controller avec toutes les méthodes de base.</p>
+
+<h5 id="crud">CRUD</h5>
+
+<p>Idem, nous allons construire un CRUD de base afin de pouvoir itérer dessus facilement. Voici les specs du CRUD :</p>
+
+<h6 id="1new">1. New</h6>
+
+<p>Quand un moussaillon s'inscrit, il doit renseigner son <code>first_name</code>, et son <code>age</code>.</p>
+
+<h6 id="2show">2. Show</h6>
+
+<p>Le view show doit montrer le prénom du moussaillon en <code>&lt;h1&gt;</code>, et son age en plus petit. Il doit y avoir un lien pour éditer le moussaillon à partir de show.</p>
+
+<h6 id="3edit">3. Edit</h6>
+
+<p>À partir de la view edit, on peut éditer le <code>age</code> du moussaillon, ainsi que son <code>first_name</code>. On peut supprimer un moussaillon à partir de la view edit.</p>
+
+<h6 id="4index">4. Index</h6>
+
+<p>L'index doit recenser tous les moussaillons. Pour chaque moussaillon, il doit afficher :</p>
+
+<ul>
+	<li>Son prénom</li>
+	<li>Son âge</li>
+	<li>Un lien vers la view show</li>
+</ul>
+
+<p>En fin de liste des moussaillons, l'index doit proposer un lien pour inscrire un moussaillon.</p>
+
+<h4 id="modelpourlesbgs">Model pour les BGs</h4>
+
+<p>Tu viens de faire un magnifique CRUD, tu as une base pour maintenant faire les tâches plus funky 💋</p>
+
+<p>Nous allons valider les attributs, afin d'éviter que nos moussaillons rentrent des truc foireux :</p>
+
+<ul>
+	<li>le <code>first_name</code> et le <code>age</code> sont obligatoires</li>
+	<li>le <code>first_name</code> ne doit pas dépasser 20 caractères</li>
+	<li>le <code>age</code> doit être compris entre 15 et 120 (au délà, on estime que c'est une erreur)</li>
+	<li>le <code>slack_handle</code> et le <code>github_handle</code> ne doivent pas contenir d'espace</li>
+</ul>
+
+<p>Afin de tester la validité de tes models, tu peux vérifier dans la console en appelant la méthode <code>.valid?</code> sur les moussaillons que tu créés.</p>
+
+<h4 id="entrerplusdeparamtresdanslaviewedit">Entrer plus de paramètres dans la view edit</h4>
+
+<p>Maintenant nous allons pouvoir changer plus d'attributs dans la view edit. Change le formulaire et les controller dans edit / update pour que l'on puisse prendre en compte les attributs suivants :</p>
+
+<ul>
+	<li><code>bio</code></li>
+	<li><code>slack_handle</code></li>
+	<li><code>github_handle</code></li>
+</ul>
+
+<p>Une fois ceci fait, tu peux afficher ces attributs dans la view show.</p>
+
+<h5 id="ifshow">if show</h5>
+<p>Question : si le moussaillon n'a pas (encore) défini son <code>slack_handle</code>, c'est pas très cool d'afficher dans la vue show une phrase du genre :</p>
+
+<pre><code>Voici le pseudo slack de Jean-Raoul : nil
+</code></pre>
+
+<p>Pour remédier à ceci, on peut faire des if en erb, une fonction bien pratique :</p>
+
+<pre><code class="erb language-erb">&lt;% if @moussaillon.slack_handle != nil %&gt;
+    &lt;p&gt;Voici le pseudo Slack de &lt;%=@moussaillon.first_name%&gt; : &lt;%=@moussaillon.slack_handle%&gt;&lt;/p&gt;
+&lt;% else %&gt;
+    &lt;p&gt;&lt;%=@moussaillon.first_name%&gt; n'a pas encore renseigné son pseudo Slack !&lt;/p&gt;
+&lt;% end %&gt;
+</code></pre>
+
+<h4 id="kebabornotkebab">Kebab, or not Kebab</h4>
+
+<p>On l'avait un peu délaissé jusqu'à présent, mais maintenant on va s'attaquer à ces fameux kebabs. Dans le formulaire d'édition, mets un radio_button qui va prendre en compte le paramètre pour savoir si notre moussaillon préfère les kebabs, ou le hummus.</p>
+
+<p>Si le moussaillon coche la case Kebab, son paramètre <code>likeness</code> doit être <code>kebab</code> ;  si le moussaillon coche la case Hummus, son paramètre <code>likeness</code> doit être <code>hummus</code></p>
+
+<p><a href="http://guides.rubyonrails.org/form_helpers.html#helpers-for-generating-form-elements">La doc renseigne</a> comment faire des radios_buttons.</p>
+
+<p>Bien entendu, change la view show pour montrer si le moussaillon préfère les kebabs, ou le hummus.</p>
+
+<h4 id="enligne">En ligne</h4>
+
+<p>Maintenant que tu as un truc qui ressemble à quelque chose, mettons-le en ligne !</p>
+
+<pre><code class="shell language-shell">$ git push heroku master
+$ heroku run rails db:migrate
+</code></pre>
+
+<p>Bravo ! Il ne te reste plus qu'à remplir <a href="/users/validating-forms/form-7">le formulaire</a> et à toi la gloire 😎</p>
+
+    </div>
+    <br><br><br><br><br><br>
+
+<footer class="footer">
+  <div class="container">
+    <span class="text-muted">© <a href="http://www.thehackingproject.org/mentions">The Hacking Project, 2017</a></span>
+  </div>
+</footer>
+
+  </body>
+</html>
+Kx`x2      Y�Y� >Wk�       @    :https://thehackingproject.herokuapp.com/cursus/semaine-4/jour-3 necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: Cowboy
+Date: Wed, 25 Oct 2017 10:13:15 GMT
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Etag: W/"9893e8b84a7f45804f3a46ab0f497ff1"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 6b4567fc-47af-41f6-8744-f55b6c0b7d68
+X-Runtime: 0.010661
+Via: 1.1 vegur
+ original-response-headers Server: Cowboy
+Date: Wed, 25 Oct 2017 10:13:15 GMT
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Etag: W/"9893e8b84a7f45804f3a46ab0f497ff1"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _thp_users_session=L2piSmsvRVNNbXJlS0FLM25zTUtTNGYzUTVsTFpDczBZTWJvN2ZlRVh1K2hvREQ5ZkJ0OHBMY1UyeGt5YytKUVp6a042VEJJVStkOXVhWVE3cm8xeVdmT3Y5aVV0Mm4xY1U5OGNCVzFSSklJTmpQMlFjODAycjNWZGU0RzlmTzZRNGZtTjdxTmxQTDlHRDVaVDFTam9yS2FzOFhMSVF2TG53K2k2cUEyK3VCU1hoK05ucFBpVWFGYk5pb3FyRHhkYjVyRDgxenI2Z1MwVk00TFhKaUNOeG41Z3BuekVXbStwOTd5OWVxOHhBQT0tLW9NTmVJblN2RXh5SjIxcTJ1b0pZK0E9PQ%3D%3D--00b405da299e487d08ffa85932ea082b071a65d3; path=/; HttpOnly
+X-Request-Id: 6b4567fc-47af-41f6-8744-f55b6c0b7d68
+X-Runtime: 0.010661
+Transfer-Encoding: chunked
+Via: 1.1 vegur
+ uncompressed-len 0 net-response-time-onstart 182 net-response-time-onstop 267 predictor::resource-count 7 predictor::https://thehackingproject.herokuapp.com/assets/application-ba8fc79d1e4588a4c69e3f966347dc2eb61d17b52132876debcdbcac2c3cd82a.css 1,1,1508938783,4096 predictor::https://thehackingproject.herokuapp.com/assets/application-abf83992d090a5fed5bf6ac842659c74ebb351307a43f1f2a319751e18653507.js 1,1,1508938783,4096 predictor::https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js 1,1,1508938783,4096 predictor::https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js 1,1,1508938783,4096 predictor::https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css 1,1,1508938783,4096 predictor::https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js 1,1,1508938783,4096 predictor::https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js 1,1,1508938783,4096   S�

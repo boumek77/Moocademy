@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<compiz_session id="10feaef6102722d744150738250266758800000013200048">
+  <window id="10feaef6102722d74415074191498092900000013200049" title="Premiers tests du CSS - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="462" y="334" width="818" height="466"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>

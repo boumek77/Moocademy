@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<compiz_session id="103c9e59bc586c0df14552081159591200000011710048">
+  <window id="103c9e59bc586c0df1455208193647300000011710049" title="Apprendre Ruby : Les Classes - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="65" y="24" width="1181" height="382"/>
+    <minimized/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>
